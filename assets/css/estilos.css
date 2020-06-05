@@ -360,30 +360,38 @@ a.info{
 }
 
 
-@media (min-width: 0px) and (max-width: 768px){
+@media (min-width: 0px) and (max-width: 767px){
 	.navbar{
-		max-width: 768px;
+		padding: 0 2rem;
+	}
+
+	.main-banner__text{
+		margin-left:  2rem;
 	}
 
 	.main-banner__text h1{
-		font-size: 75px;
+		font-size: 48px;
 	}
 
 	.main-banner__text p{
-		font-size: 14px;
+		font-size: 9px;
 	}
 
 	.main-banner__img{
-		height: 70vh;
+		height: 48vh;
 	}
 
 	.main-banner__text a{
-		font-size: 15px;
+		font-size: 12px;
 	}
 
 	.main-banner__text a:before {
 		right: 50px;
 		bottom: 8px;
+	}
+
+	.main-paquetes h2{
+		font-size: 25px;
 	}
 
 	.main-sobre__nosotros__text h3{
@@ -404,12 +412,16 @@ a.info{
 		margin-top: 1rem;
 	}
 
+	.main-titulo__dos p{
+		margin-top: 1rem;
+	}
+
 	.titulo__dos{
-		font-size: 32px;
+		font-size: 15px;
 	}
 
 	.main-text p{
-		font-size: 14px;
+		font-size: 9px;
 	}
 
 	.main-imagen__text img{
@@ -417,21 +429,21 @@ a.info{
 	}
 
 	.titulo__distribucion {
-		font-size: 30px;
+		font-size: 21px;
 		padding: 2rem;
 	}
 
 	.main-distribucion__text p{
-		font-size: 13px;
+		font-size: 9px;
 	}
 
 	.imagen__distribucion p{
-		font-size: 13px;
+		font-size: 9px;
 		padding: 0rem;
 	}
 
 	.titulo__registro{
-		font-size: 30px;
+		font-size: 25px;
 		padding: 2rem;
 	}
 
@@ -444,31 +456,54 @@ a.info{
 	}
 	
 	.main-registro__content input{
-		width: 440px;
-		height: 40px;
+		width: 360px;
 	}
 
 	.main-registro__content textarea{
-		width: 440px;
-		height: 180px;
+		width: 360px;
+		height: 120px;
 	}
 
 	.imagen__registro img{
 		width: 85%;
 	}
 
+	.parte__ultima{
+		padding: 2rem;
+	}
+
 	.titulo__ultimo{
-		font-size: 95px;
+		font-size: 50px;
 	}
 
 	.main-parte__ultima p{
-		font-size: 15px;
+		font-size: 9px;
+	}
+	.habilidades li{
+		font-size: 11px;
+		padding: 1rem;
 	}
 }
 
-@media (min-width: 767px) and (max-width: 991px){
+@media (min-width: 768px) and (max-width: 991px){
 	.main-banner__img {
     height: 55vh;
+	}
+
+	.input{
+		padding: 1rem;
+	}
+	
+	.titulo__ultimo{
+		font-size: 93px;
+	}
+	.habilidades li{
+		font-size: 26px;
+		padding: 1rem;
+	}
+
+	.main-parte__ultima p{
+		font-size: 16px;
 	}
 }
 
