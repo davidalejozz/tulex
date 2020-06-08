@@ -370,27 +370,23 @@ a.info{
 	}
 
 	.main-banner__text h1{
-		font-size: 48px;
+		font-size: 40px;
 	}
 
 	.main-banner__text p{
-		font-size: 9px;
+		font-size: 7px;
 	}
 
 	.main-banner__img{
-<<<<<<< HEAD
-		height: 38vh;
-=======
-		height: 48vh;
->>>>>>> d4b322c07dc948a10bb567b2f3618fba13840486
+		height: 35vh;
 	}
 
 	.main-banner__text a{
-		font-size: 12px;
+		font-size: 14px;
 	}
 
 	.main-banner__text a i {
-    font-size: 17px;
+    font-size: 13px;
     padding-left: 5px;
 	}
 
@@ -433,8 +429,7 @@ a.info{
 	}
 
 	.titulo__dos{
-<<<<<<< HEAD
-		font-size: 30px;
+		font-size: 25px;
 		text-align: center;
 	}
 
@@ -445,13 +440,11 @@ a.info{
 
 	.main-text p{
 		font-size: 12px;
-=======
 		font-size: 15px;
 	}
 
 	.main-text p{
 		font-size: 9px;
->>>>>>> d4b322c07dc948a10bb567b2f3618fba13840486
 	}
 
 	.main-imagen__text{
@@ -466,10 +459,7 @@ a.info{
 
 	.main-distribucion__text p{
 		font-size: 9px;
-<<<<<<< HEAD
 		font-weight: 600;
-=======
->>>>>>> d4b322c07dc948a10bb567b2f3618fba13840486
 	}
 
 	.imagen__distribucion p{
@@ -492,11 +482,11 @@ a.info{
 	}
 	
 	.main-registro__content input{
-		width: 360px;
+		width: 280px;
 	}
 
 	.main-registro__content textarea{
-		width: 360px;
+		width: 280px;
 		height: 120px;
 	}
 
@@ -517,7 +507,7 @@ a.info{
 	}
 
 	.main-parte__ultima p{
-		font-size: 9px;
+		font-size: 6px;
 	}
 	.habilidades li{
 		font-size: 11px;
