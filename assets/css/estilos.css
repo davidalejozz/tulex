@@ -344,7 +344,6 @@ a.info{
 }
 .slider-main__paquetes{
 	border-radius: 0rem 4rem 0rem;
-	/*box-shadow: 19px 15px 42px -30px rgba(0,0,0,0.75);*/
 	height: auto;
 	background-color: #f7f7f7;
 }
@@ -371,6 +370,7 @@ a.info{
 
 	.main-banner__text h1{
 		font-size: 40px;
+		color: purple;
 	}
 
 	.main-banner__text p{
@@ -382,7 +382,7 @@ a.info{
 	}
 
 	.main-banner__text a{
-		font-size: 14px;
+		font-size: 12px;
 	}
 
 	.main-banner__text a i {
