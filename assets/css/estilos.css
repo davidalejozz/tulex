@@ -370,7 +370,8 @@ a.info{
 
 	.main-banner__text h1{
 		font-size: 40px;
-		color: purple;
+		color: #b2002b;
+		padding-top: 4rem; 
 	}
 
 	.main-banner__text p{
@@ -378,7 +379,7 @@ a.info{
 	}
 
 	.main-banner__img{
-		height: 35vh;
+		height: 33vh;
 	}
 
 	.main-banner__text a{
@@ -482,11 +483,11 @@ a.info{
 	}
 	
 	.main-registro__content input{
-		width: 280px;
+		width: auto;
 	}
 
 	.main-registro__content textarea{
-		width: 280px;
+		width: auto;
 		height: 120px;
 	}
 
