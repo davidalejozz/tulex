@@ -364,6 +364,10 @@ a.info{
 		padding: 0 2rem;
 	}
 
+	.main-banner{
+		padding-top: 4rem;
+	}
+
 	.main-banner__text{
 		margin-left:  2rem;
 	}
@@ -371,7 +375,7 @@ a.info{
 	.main-banner__text h1{
 		font-size: 40px;
 		color: #b2002b;
-		padding-top: 4rem; 
+		padding-top: 1rem; 
 	}
 
 	.main-banner__text p{
@@ -379,7 +383,7 @@ a.info{
 	}
 
 	.main-banner__img{
-		height: 33vh;
+		height: 24vh;
 	}
 
 	.main-banner__text a{
