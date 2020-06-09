@@ -315,6 +315,11 @@ a.info{
 	font-weight: 500;
 }
 
+.habilidades a{
+	color: #fff;
+	text-decoration: none;
+}
+
 .content-slider__paquetes{
 	outline: none;
 }
@@ -517,6 +522,11 @@ a.info{
 	.habilidades li{
 		font-size: 11px;
 		padding: 1rem;
+	}
+
+	.habilidades a{
+		color: #fff;
+		text-decoration: none;
 	}
 }
 
