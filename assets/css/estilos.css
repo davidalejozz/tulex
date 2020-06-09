@@ -317,7 +317,6 @@ a.info{
 
 .habilidades a{
 	color: #fff;
-	text-decoration: none;
 }
 
 .content-slider__paquetes{
@@ -363,6 +362,11 @@ a.info{
 	background: #fff;
 }
 
+.creador{
+	font-weight: 900;
+	font-size: 30px;
+	text-align: center;
+}
 
 @media (min-width: 0px) and (max-width: 767px){
 	.navbar{
