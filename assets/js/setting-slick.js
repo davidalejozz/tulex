@@ -5,12 +5,12 @@ $('.slider-main__paquetes').slick({
   slidesToShow: 3,
   responsive: [
     {
-      breakpoint: 768,
+      breakpoint: 767,
       settings: {
         arrows: false,
         centerMode: true,
         centerPadding: '40px',
-        slidesToShow: 3
+        slidesToShow: 2
       }
     },
     {
@@ -31,12 +31,12 @@ $('.slider-sobre__nosotros').slick({
   arrows:false,
   responsive: [
     {
-      breakpoint: 768,
+      breakpoint: 767,
       settings: {
         arrows: false,
         centerMode: true,
         centerPadding: '40px',
-        slidesToShow: 3
+        slidesToShow: 2
       }
     },
     {
@@ -48,6 +48,7 @@ $('.slider-sobre__nosotros').slick({
       }
     }
   ]
+
 });
 
 var filtered = false;
