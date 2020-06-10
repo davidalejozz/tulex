@@ -620,7 +620,7 @@ a.info{
 	}
 	
 	.titulo__dos{
-		font-size: 55px;
+		font-size: 46px;
 	}
 	
 	.main-titulo__dos p{
@@ -644,5 +644,9 @@ a.info{
 
 	.input{
 		padding: 2rem;
+	}
+
+	.habilidades li{
+		padding: 3rem;
 	}
 }
