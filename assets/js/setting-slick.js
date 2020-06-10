@@ -5,7 +5,7 @@ $('.slider-main__paquetes').slick({
   slidesToShow: 3,
   responsive: [
     {
-      breakpoint: 767,
+      breakpoint: 900,
       settings: {
         arrows: false,
         centerMode: true,
@@ -31,7 +31,7 @@ $('.slider-sobre__nosotros').slick({
   arrows:false,
   responsive: [
     {
-      breakpoint: 767,
+      breakpoint: 900,
       settings: {
         arrows: false,
         centerMode: true,
